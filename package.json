@@ -26,9 +26,7 @@
     "request-json": "^0.6.2",
     "ws": "^3.3.2"
   },
-  {
-    "scripts": {
-      "test": "echo \"No tests specified\" && exit 0"
-    }
-  }  
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
 }
